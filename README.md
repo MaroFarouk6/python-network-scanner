@@ -15,7 +15,7 @@ Simple muti-threaded network scanner with Python, to discover live hosts on a ne
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/MaroFarouk6/python-network-scanner.git](https://github.com/MaroFarouk6/python-network-scanner.git)
+    git clone https://github.com/MaroFarouk6/python-network-scanner.git
     cd python-network-scanner
     ```
 2.  Install dependencies:
