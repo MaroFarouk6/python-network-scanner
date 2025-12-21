@@ -1,4 +1,4 @@
-# python-network-scanner
+# Python Network Scanner
 Simple muti-threaded network scanner with Python, to discover live hosts on a network and their MAC addresses on a network
 ---
 
